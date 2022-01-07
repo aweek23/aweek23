@@ -12,7 +12,7 @@ Je suis Ayzirix, mieux connu sous le pseudonyme Aweek. Je joue pas mal sur les s
 
 ⚒ - Buildeur Minecraft Bedrock et Java ➔ [Build](https://github.com/Ayzirix/Builds-Minecraft)
 
-🖋 - Graphiste et 3D model maker ➔ [Graphisme](https://github.com/Ayzirix/Graphisme) et [Modèles 3D]()
+🖋 - Graphiste, texture making et 3D model maker ➔ [Graphisme](https://github.com/Ayzirix/Graphisme) et [Modèles 3D et texture making](https://github.com/Ayzirix/Textures-Minecraft-et-modeles-3D)
 
 💾 - Hébérgeur et technicien ➔ [Hébergement et support technique](https://github.com/Ayzirix/Hebergement)
 
