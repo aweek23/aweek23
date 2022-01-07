@@ -3,7 +3,7 @@
 [![Gmail: G-Mail](https://img.shields.io/badge/Gmail-contact.aweek@gmail.com-red)](contact.aweek@gmail.com)
 
 
-⭐️ ⚈ MES COMPETENCES
+# ⭐️ ⚈ MES COMPETENCES
 
 🛠 - Développeur Pocketmine, Bukkit et bots Discord
 
@@ -12,3 +12,5 @@
 🖋 - Graphiste et 3D model maker
 
 💾 - Hébérgeur et technicien
+
+# 📱 ⚈ ME CONTACTER
