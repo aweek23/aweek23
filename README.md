@@ -1,5 +1,7 @@
 [![GitHub: @Ayzirix](https://img.shields.io/github/followers/Ayzirix?label=follow&style=social)](https://github.com/Ayzirix)
-[![Gmail: Aweek](https://img.shields.io/badge/Gmail-Ayzirix-red)](contact.aweek@gmail.com)
+
+[![Gmail: G-Mail](https://img.shields.io/badge/Gmail-contact.aweek@gmail.com-red)](contact.aweek@gmail.com)
+
 
 ⭐️ ⚈ MES COMPETENCES
 
