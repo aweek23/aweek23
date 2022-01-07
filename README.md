@@ -29,27 +29,27 @@ Je suis Ayzirix, mieux connu sous le pseudonyme Aweek. Je joue pas mal sur les s
 
 # ⌨️ ⚈ LANGUAGES DE DEVELOPPEMENT
 
-Php ➔ Intermédiaire
+**Php** ➔ Intermédiaire
 
-Html ➔ Intermédiaire
+**Html** ➔ Intermédiaire
 
-JavaScript ➔ Débutant
+**JavaScript** ➔ Débutant
 
-Java ➔ Débutant
+**Java** ➔ Débutant
 
-Python ➔ Débutant
+**Python** ➔ Débutant
 
-BDFD ➔ Avancé
+**BDFD** ➔ Avancé
 
 # 📂 ⚈ Projets en cour et prévus
 
-Anarchy ➔ Serveur Minecraft Bedrock Edition dans un thème et un environnement post-apocaliptique [![Discord: Invite](https://img.shields.io/badge/Discord-invite-blue)](https://discord.gg/AdvgKwVCtf)
+**Anarchy** ➔ Serveur Minecraft Bedrock Edition dans un thème et un environnement post-apocaliptique [![Discord: Invite](https://img.shields.io/badge/Discord-invite-blue)](https://discord.gg/AdvgKwVCtf)
 
-Horizon Hébèrgement ➔ Projet en cour de développement
+**Horizon** Hébèrgement ➔ Projet en cour de développement
 
-McBe Challenge ➔ Evenement McBe arrivant durant le mois de juillet 2021
+**McBe Challenge** ➔ Evenement McBe arrivant durant le mois de juillet 2021
 
-Aweek.bot ➔ Bot Discord arrivant sous peu
+**Aweek.bot** ➔ Bot Discord arrivant sous peu
 
 # 📈 ⚈ Statistiques Github
 
