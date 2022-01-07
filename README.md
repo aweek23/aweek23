@@ -17,6 +17,6 @@
 
 👾 - Discord ➔
 
-👾 - Commander ➔ 
+[![Discord Shop: @Ayzirix](https://img.shields.io)](https://discord.gg/uEVRupPrr5) 
 
-[![GitHub: @Ayzirix](https://img.shields.io/twitter/follow/:user?label=Follow)](https://twitter.com/aweek0001?t=7ZdUXEEkm-PVrjCa7_S1Wg&s=09)
+[![GitHub: @Ayzirix](https://img.shields.io/twitter/follow/:user?label=Follow)](https://twitter.com/aweek0001)
