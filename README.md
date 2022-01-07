@@ -19,4 +19,4 @@
 
 👾 - Discord ➔
 
-👾 - Commander ➔ [![GitHub: @Refaltor77](https://img.shields.io//twitter/follow/:user?label=Follow)](https://discord.gg/invite/uEVRupPrr5)
+👾 - Commander ➔ [![GitHub: @Refaltor77](https://img.shields.io/twitter/follow/:user?label=Follow)](https://discord.gg/invite/uEVRupPrr5)
