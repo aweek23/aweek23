@@ -7,13 +7,15 @@ Je suis Ayzirix, mieux connu sous le pseudonyme Aweek. Je joue pas mal sur les s
 
 # ⭐️ ⚈ MES COMPETENCES
 
-🛠 - Développeur Pocketmine, Bukkit et bots Discord
+🛠 - Développeur Pocketmine, Bukkit, sites et bots Discord (Mes languages et niveaux dans ces derniers sont disponible dans la section "Languages de développement")
 
 ⚒ - Buildeur Minecraft Bedrock et Java
 
 🖋 - Graphiste et 3D model maker
 
 💾 - Hébérgeur et technicien
+
+📈 - Community Management
 
 # 📱 ⚈ ME CONTACTER
 
@@ -24,3 +26,17 @@ Je suis Ayzirix, mieux connu sous le pseudonyme Aweek. Je joue pas mal sur les s
 ![Discord: αωєєк#9864](https://img.shields.io/badge/Discord-compte-blue)
 
 [![Discord: @aweek0001](https://img.shields.io/badge/Discord-shop-blue)](https://discord.gg/uEVRupPrr5) 
+
+# ⌨️ ⚈ LANGUAGES DE DEVELOPPEMENT
+
+Php ➔ Intermédiaire
+
+Html ➔ Intermédiaire
+
+JavaScript ➔ Débutant
+
+Java ➔ Débutant
+
+Python ➔ Débutant
+
+BDFD ➔ Avancé
