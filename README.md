@@ -10,13 +10,13 @@ Je suis Ayzirix, mieux connu sous le pseudonyme Aweek. Je joue pas mal sur les s
 
 🛠 - Développeur Pocketmine, Bukkit, sites et bots Discord (Mes languages et niveaux dans ces derniers sont disponible dans la section "Languages de développement")
 
-⚒ - Buildeur Minecraft Bedrock et Java ➔ [Build]()
+⚒ - Buildeur Minecraft Bedrock et Java ➔ [Build](https://github.com/Ayzirix/Builds-Minecraft)
 
-🖋 - Graphiste et 3D model maker ➔ [Graphisme]() [Modèles 3D]()
+🖋 - Graphiste et 3D model maker ➔ [Graphisme](https://github.com/Ayzirix/Graphisme) et [Modèles 3D]()
 
-💾 - Hébérgeur et technicien ➔ [Hébergement et support technique]()
+💾 - Hébérgeur et technicien ➔ [Hébergement et support technique](https://github.com/Ayzirix/Hebergement)
 
-📈 - Community Management ➔ [Community Management]()
+📈 - Community Management ➔ [Community Management](https://github.com/Ayzirix/Community-Management)
 
 # 📱 ⚈ ME CONTACTER
 
