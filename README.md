@@ -30,9 +30,9 @@ Je suis Ayzirix, mieux connu sous le pseudonyme Aweek. Je joue pas mal sur les s
 
 # ⌨️ • LANGUAGES DE DEVELOPPEMENT
 
-**Php** ➔ Intermédiaire
+**Php** ➔ Débutant
 
-**Html** ➔ Intermédiaire
+**Html** ➔ Débutant
 
 **JavaScript** ➔ Débutant
 
