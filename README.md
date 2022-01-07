@@ -1,4 +1,4 @@
-![img](https://cdn.discordapp.com/attachments/928644758560194620/929096978258853928/Screenshot_20210301-154329_Minecraft.jpg]
+![img](https://cdn.discordapp.com/attachments/928644758560194620/929096978258853928/Screenshot_20210301-154329_Minecraft.jpg)
 
 [![GitHub: @Ayzirix](https://img.shields.io/github/followers/Ayzirix?label=follow&style=social)](https://github.com/Ayzirix)
 [![GitHub: @Ayzirix](https://img.shields.io/github/stars/:user/:repo?style=social)](https://github.com/Ayzirix)
