@@ -44,7 +44,7 @@ Je suis Ayzirix, mieux connu sous le pseudonyme Aweek. Je joue pas mal sur les s
 
 **Anarchy** ➔ Serveur Minecraft Bedrock Edition dans un thème et un environnement post-apocaliptique [![Discord: Server](https://img.shields.io/badge/Discord-server-blue)](https://discord.gg/AdvgKwVCtf)
 
-**Horizon** Hébèrgement ➔ Projet en cour de développement
+**Horizon Hébèrgement** ➔ Projet en cour de développement
 
 **McBe Challenge** ➔ Evenement McBe arrivant durant le mois de juillet 2021
 
