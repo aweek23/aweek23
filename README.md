@@ -15,7 +15,7 @@
 
 [![Gmail: G-Mail](https://img.shields.io/badge/Gmail-contact.aweek@gmail.com-white)](contact.aweek@gmail.com)
 
-[![Discord: αωєєк#9864](https://img.shields.io/badge/Discord-compte-blue)]
+[Discord: αωєєк#9864](https://img.shields.io/badge/Discord-compte-blue)
 
 [![Discord: @aweek0001](https://img.shields.io/badge/Discord-shop-blue)](https://discord.gg/uEVRupPrr5) 
 
