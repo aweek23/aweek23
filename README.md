@@ -1,9 +1,5 @@
 [![GitHub: @Ayzirix](https://img.shields.io/github/followers/Ayzirix?label=follow&style=social)](https://github.com/Ayzirix)
-[![GitHub: @Ayzirix](https://img.shields.io/github/forks/:user/:repo?label=Fork)](https://github.com/Ayzirix)
 [![GitHub: @Ayzirix](https://img.shields.io/github/stars/:user/:repo?style=social)](https://github.com/Ayzirix)
-[![GitHub: @Ayzirix](https://img.shields.io/github/stars/:user?affiliations=OWNER%2CCOLLABORATOR)](https://github.com/Ayzirix)
-[![GitHub: @Ayzirix](https://img.shields.io/github/stars/:user?affiliations=OWNER%2CCOLLABORATOR)](https://github.com/Ayzirix)
-[![GitHub: @Ayzirix](https://img.shields.io/github/watchers/:user/:repo?label=Watch)](https://github.com/Ayzirix)
 
 # ⭐️ ⚈ MES COMPETENCES
 
@@ -17,7 +13,7 @@
 
 # 📱 ⚈ ME CONTACTER
 
-[![Gmail: G-Mail](https://img.shields.io/badge/Gmail-contact.aweek@gmail.com-red)](contact.aweek@gmail.com)
+[![Gmail: G-Mail](https://img.shields.io/badge/Gmail-contact.aweek@gmail.com-white)](contact.aweek@gmail.com)
 
 👾 - Discord ➔
 
