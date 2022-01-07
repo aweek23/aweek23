@@ -1,6 +1,4 @@
-> Test
-
-⭐️ ⚈ MES COMPETENCES
+> ⭐️ ⚈ MES COMPETENCES
 
 🛠 - Développeur Pocketmine, Bukkit et bots Discord
 
