@@ -1,8 +1,5 @@
 [![GitHub: @Ayzirix](https://img.shields.io/github/followers/Ayzirix?label=follow&style=social)](https://github.com/Ayzirix)
 
-[![Gmail: G-Mail](https://img.shields.io/badge/Gmail-contact.aweek@gmail.com-red)](contact.aweek@gmail.com)
-
-
 # ⭐️ ⚈ MES COMPETENCES
 
 🛠 - Développeur Pocketmine, Bukkit et bots Discord
@@ -15,8 +12,10 @@
 
 # 📱 ⚈ ME CONTACTER
 
-📧 - Email ➔ 
+📧 - Email ➔ [![Gmail: G-Mail](https://img.shields.io/badge/Gmail-contact.aweek@gmail.com-red)](contact.aweek@gmail.com)
 
 👾 - Discord ➔
 
-👾 - Commander ➔ [![GitHub: @Refaltor77](https://img.shields.io/twitter/follow/:user?label=Follow)](https://discord.gg/invite/uEVRupPrr5)
+👾 - Commander ➔ 
+
+🐤 - Twitter ➔ 
