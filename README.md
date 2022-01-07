@@ -17,6 +17,6 @@
 
 👾 - Discord ➔
 
-[![Discord: @aweek0001](https://img.shields.io/badge/Discord-Discord-blue)](https://discord.gg/uEVRupPrr5) 
+[![Discord: @aweek0001](https://img.shields.io/badge/Discord-invite-blue)](https://discord.gg/uEVRupPrr5) 
 
-[![Twitter: @aweek0001](https://img.shields.io/badge/Discord-Discord-blue)](https://twitter.com/@aweek0001)
+[![Twitter: @aweek0001](https://img.shields.io/badge/Twitter-aweek0001-blue)](https://twitter.com/@aweek0001)
