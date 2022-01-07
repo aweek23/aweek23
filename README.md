@@ -1,5 +1,6 @@
 [![GitHub: @Ayzirix](https://img.shields.io/github/followers/Ayzirix?label=follow&style=social)](https://github.com/Ayzirix)
 [![GitHub: @Ayzirix](https://img.shields.io/github/stars/:user/:repo?style=social)](https://github.com/Ayzirix)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Ayzirix)
 
 # 📜 ⚈ Présentation
 
