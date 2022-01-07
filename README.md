@@ -6,4 +6,4 @@
 
 🖋 - Graphiste et 3D model maker
 
-💾 - Hébérgeur et techniciens
+💾 - Hébérgeur et technicien
