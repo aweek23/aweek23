@@ -19,4 +19,4 @@
 
 [![GitHub: @Ayzirix](https://img.shields.io)](https://discord.gg/uEVRupPrr5) 
 
-[![Twitter: @Ayzirix](https://img.shields.io/twitter/follow/:user?label=Follow)](https://twitter.com/aweek0001)
+[![Twitter: @Ayzirix](https://img.shields.io/twitter/follow/:user?label=Follow)](https://twitter.com/@aweek0001)
