@@ -55,5 +55,3 @@ Je suis Ayzirix, mieux connu sous le pseudonyme Aweek. Je joue pas mal sur les s
 # 📈 ⚈ Statistiques Github
 
 ![Chetanya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ayzirix&hide=["issues"]&show_icons=true)
-
-![alt text](https://www.zupimages.net/up/22/01/3bg8.jpg)
