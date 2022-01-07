@@ -14,3 +14,9 @@
 💾 - Hébérgeur et technicien
 
 # 📱 ⚈ ME CONTACTER
+
+📧 - Email ➔ 
+
+👾 - Discord ➔
+
+👾 - Commander ➔ [![GitHub: @Refaltor77](https://img.shields.io//twitter/follow/:user?label=Follow)](https://discord.gg/invite/uEVRupPrr5)
