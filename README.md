@@ -44,3 +44,13 @@ BDFD ➔ Avancé
 # 📂 ⚈ Projets en cour et prévus
 
 Anarchy ➔ Serveur Minecraft Bedrock Edition dans un thème et un environnement post-apocaliptique [![Discord: Invite](https://img.shields.io/badge/Discord-invite-blue)](https://discord.gg/AdvgKwVCtf)
+
+Horizon Hébèrgement ➔ Projet en cour de développement
+
+McBe Challenge ➔ Evenement McBe arrivant durant le mois de juillet 2021
+
+Aweek.bot ➔ Bot Discord arrivant sous peu
+
+# 📈 ⚈ Statistiques Github
+
+![Chetanya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ayzirix&hide=["issues"]&show_icons=true)
