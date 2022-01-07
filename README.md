@@ -17,6 +17,6 @@
 
 👾 - Discord ➔
 
-[![GitHub: @Ayzirix](https://img.shields.io)](https://discord.gg/uEVRupPrr5) 
+[![Discord: @aweek0001](https://img.shields.io/badge/Discord-Discord-blue)](https://discord.gg/uEVRupPrr5) 
 
-[![Twitter: @Ayzirix](https://img.shields.io/twitter/follow/:user?label=Follow)](https://twitter.com/@aweek0001)
+[![Twitter: @aweek0001](https://img.shields.io/twitter/follow/:user?label=Follow)](https://twitter.com/@aweek0001)
