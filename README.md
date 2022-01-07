@@ -4,7 +4,7 @@
 
 # 📜 • Présentation
 
-Je suis Ayzirix, mieux connu sous le pseudonyme Aweek. Je joue pas mal sur les serveurs MinecraftBedrock Edition et Java Edition. J'en ai également créer, vous pouvez aller voir la section "Mes projets" un peu plus bas. Je suis Belge et j'ai 17ans. J'ai plusieurs compétences, notement utile dans la mise en place des serveurs Minecraft Pocketmine et Spigot ainsi que dans la mise en place de serveurs Discord avec des bots de tout types. Si vous souhaitez avoir plus d'information sur ma personnes, mes compétences et mes capacitées; voici mon [CV]()
+Je suis Ayzirix, mieux connu sous le pseudonyme Aweek. Je joue pas mal sur les serveurs MinecraftBedrock Edition et Java Edition. J'en ai également créer, vous pouvez aller voir la section "Mes projets" un peu plus bas. Je suis Belge et j'ai 17ans. J'ai plusieurs compétences, notement utile dans la mise en place des serveurs Minecraft Pocketmine et Spigot ainsi que dans la mise en place de serveurs Discord avec des bots de tout types. Si vous souhaitez avoir plus d'information sur ma personnes, mes compétences et mes capacitées; voici mon [CV](https://github.com/Ayzirix/Curiculum-Vitae).
 
 # ⭐️ • MES COMPETENCES
 
