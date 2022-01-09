@@ -46,7 +46,7 @@ Je suis Ayzirix, mieux connu sous le pseudonyme Aweek. Je joue pas mal sur les s
 
 **PI-Heberg** ➔ [![Discord: Server](https://img.shields.io/badge/Discord-server-blue)](https://discord.gg/BJM4bpfkRm)
 
-**Aweek.bot** ➔ Bot Discord arrivant sous peu
+**Ayzirix.bot** ➔ Bot Discord arrivant sous peu
 
 # 📈 • Statistiques Github
 
