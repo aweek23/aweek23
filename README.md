@@ -22,7 +22,7 @@ Je suis Ayzirix, mieux connu sous le pseudonyme Aweek. Je joue pas mal sur les s
 
 # 📱 • ME CONTACTER
 
-[![Gmail: G-Mail](https://img.shields.io/badge/Gmail-ayzirix@gmail.com-white)](ayzirix@gmail.com)
+[![Gmail: G-Mail](https://img.shields.io/badge/Gmail-ayzirix@gmail.com-white)](gmail:ayzirix@gmail.com)
 
 [![Twitter: @ayzirix](https://img.shields.io/badge/Twitter-ayzirix-9cf)](https://twitter.com/@ayzirix)
 
