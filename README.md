@@ -22,9 +22,9 @@ Je suis Ayzirix, mieux connu sous le pseudonyme Aweek. Je joue pas mal sur les s
 
 # 📱 • ME CONTACTER
 
-[![Gmail: G-Mail](https://img.shields.io/badge/Gmail-contact.aweek@gmail.com-white)](contact.aweek@gmail.com)
+[![Gmail: G-Mail](https://img.shields.io/badge/Gmail-ayzirix@gmail.com-white)](ayzirix@gmail.com)
 
-[![Twitter: @aweek0001](https://img.shields.io/badge/Twitter-aweek0001-9cf)](https://twitter.com/@aweek0001)
+[![Twitter: @ayzirix](https://img.shields.io/badge/Twitter-ayzirix1-9cf)](https://twitter.com/@ayzirix)
 
 [![Discord: @aweek0001](https://img.shields.io/badge/Discord-server-blue)](https://discord.gg/uEVRupPrr5) 
 
@@ -44,9 +44,7 @@ Je suis Ayzirix, mieux connu sous le pseudonyme Aweek. Je joue pas mal sur les s
 
 **Anarchy** ➔ Serveur Minecraft Bedrock Edition dans un thème et un environnement post-apocaliptique [![Discord: Server](https://img.shields.io/badge/Discord-server-blue)](https://discord.gg/AdvgKwVCtf)
 
-**Horizon Hébèrgement** ➔ Projet en cour de développement
-
-**McBe Challenge** ➔ Evenement McBe arrivant durant le mois de juillet 2021
+**PI-Heberg** ➔ [![Discord: Server](https://img.shields.io/badge/Discord-server-blue)](https://discord.gg/BJM4bpfkRm)
 
 **Aweek.bot** ➔ Bot Discord arrivant sous peu
 
