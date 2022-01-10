@@ -42,9 +42,11 @@ Je suis Ayzirix, mieux connu sous le pseudonyme Aweek. Je joue pas mal sur les s
 
 # 📂 • Projets en cour et prévus
 
-**Anarchy** ➔ Serveur Minecraft Bedrock Edition dans un thème et un environnement post-apocaliptique [![Discord: Server](https://img.shields.io/badge/Discord-server-blue)](https://discord.gg/AdvgKwVCtf)
+**Anarchy** ➔ Serveur Minecraft Bedrock Edition dans un thème et un environnement post-apocaliptique [Discord](https://discord.gg/AdvgKwVCtf)
 
-**PI-Heberg** ➔ [![Discord: Server](https://img.shields.io/badge/Discord-server-blue)](https://discord.gg/BJM4bpfkRm)
+**PI-Heberg** ➔ Hébergement de tout types à petits prix [Discord](https://discord.gg/BJM4bpfkRm)
+
+**Horizon-Hébergement** ➔ Hébergement spécialiste du gaming [Discord](https://discord.gg/8bMASNgWS3)
 
 **Ayzirix.bot** ➔ Bot Discord arrivant sous peu
 
