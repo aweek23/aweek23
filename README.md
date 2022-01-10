@@ -38,6 +38,8 @@ Je suis Ayzirix, mieux connu sous le pseudonyme Aweek. Je joue pas mal sur les s
 
 **JavaScript** ➔ Débutant
 
+**MySQL** ➔ En cours d'apprentissage
+
 # 📂 • Projets en cour et prévus
 
 **Anarchy** ➔ Serveur Minecraft Bedrock Edition dans un thème et un environnement post-apocaliptique [Discord](https://discord.gg/AdvgKwVCtf)
