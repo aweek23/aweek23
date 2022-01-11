@@ -5,7 +5,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Ayzirix)
 
 Afin de faciliter l'utilisation de cette page Github, toutes les informations sont disponible sur le readme général.
-Vous pouvez accéder aux différentes catégories du Github grâce aux liens hypertexte qui vous amèneront directement sur le readme de la catégorie sur laquelle vous pourrez accéder aux différents projets opensource via d'autres liens hypertexte
+Vous pouvez accéder aux différentes catégories du Github grâce aux liens hypertexte qui vous amèneront directement sur le readme de la catégorie sur lesquelle vous pourrez accéder aux différents projets opensource, et à leurs informations, via d'autres liens hypertexte
 
 # 📜 • Présentation
 
