@@ -31,7 +31,7 @@ Je suis Ayzirix, mieux connu sous le pseudonyme Aweek. Je joue pas mal sur les s
 
 [![Discord: @aweek0001](https://img.shields.io/badge/Discord-server-blue)](https://discord.gg/uEVRupPrr5) 
 
-[![Instagram: @ayzirix](https://img.shields.io/badge/Instagram-compte-green)](https://Instagram.com/ayzirix)
+[![Instagram: @ayzirix](https://img.shields.io/badge/Instagram-compte-purple)](https://Instagram.com/ayzirix)
 
 # ⌨️ • LANGUAGES DE DEVELOPPEMENT
 
