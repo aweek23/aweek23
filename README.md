@@ -51,7 +51,7 @@ Il n'y a pas de certifications disponible actuelement
 
 # 🧩 • API UTILISÉES
 
-**PHP** ➔ Pocketmine et CustomItemAPI
+**PHP** ➔ Pocketmine, CustomItemAPI, SimpleCustomCraft
 
 # 📂 • Projets en cour et prévus
 
