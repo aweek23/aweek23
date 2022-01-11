@@ -4,6 +4,9 @@
 [![GitHub: @Ayzirix](https://img.shields.io/github/stars/:user/:repo?style=social)](https://github.com/Ayzirix)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Ayzirix)
 
+Afin de faciliter l'utilisation de cette page Github, toutes les informations sont disponible sur le readme général.
+Vous pouvez accéder aux différentes catégories du Github grâce aux liens hypertexte qui vous amèneront directement sur le readme de la catégorie sur laquelle vous pourrez accéder aux différents projets opensource via d'autres liens hypertexte
+
 # 📜 • Présentation
 
 Je suis Ayzirix, mieux connu sous le pseudonyme Aweek. Je joue pas mal sur les serveurs MinecraftBedrock Edition et Java Edition. J'en ai également créer, vous pouvez aller voir la section "Mes projets" un peu plus bas. Je suis Belge, je dis donc septante et non quatre-vingt-dix. J'ai plusieurs compétences, notement utile dans la mise en place des serveurs Minecraft Pocketmine et Spigot ainsi que dans la mise en place de serveurs Discord avec des bots de tout types. Si vous souhaitez avoir plus d'informations sur ma personnes, mes compétences et mes capacitées; voici mon [CV](https://github.com/Ayzirix/Curiculum-Vitae).
