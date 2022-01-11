@@ -19,9 +19,13 @@ Je suis Ayzirix, mieux connu sous le pseudonyme Aweek. Je joue pas mal sur les s
 
 🖋 - Graphiste, texture making et 3D model maker ➔ [Graphisme](https://github.com/Ayzirix/Graphisme), [Modèles 3D et texture making](https://github.com/Ayzirix/Textures-Minecraft-et-modeles-3D)
 
-💾 - Hébérgeur et technicien ➔ [Hébergement et support technique](https://github.com/Ayzirix/Hebergement)
+💾 - Hébergeur et technicien ➔ [Hébergement et support technique](https://github.com/Ayzirix/Hebergement)
 
 📈 - Community Management ➔ [Community Management](https://github.com/Ayzirix/Community-Management)
+
+# 📃 • CERTIFICATIONS
+
+Il n'y a pas de certifications disponible actuelement 
 
 # 📱 • ME CONTACTER
 
