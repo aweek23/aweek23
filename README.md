@@ -63,8 +63,6 @@ Il n'y a pas de certifications disponible actuelement
 
 **Ayzirix.bot** ➔ Bot Discord arrivant sous peu [Discord]()
 
-**Ayzirix shop** ➔ Achats de mes services [Discord](https://discord.gg/8fTEvejeNX)
-
 **FaucetCrypto** ➔ Faucet de cryptomonnaie rémunérant 100x plus que les habituelles [Discord]()
 
 # 📈 • Statistiques Github
