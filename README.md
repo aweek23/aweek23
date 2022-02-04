@@ -55,13 +55,17 @@ Il n'y a pas de certifications disponible actuelement
 
 # 📂 • Projets en cour et prévus
 
-**Anarchy** ➔ Serveur Minecraft Bedrock Edition dans un thème et un environnement post-apocaliptique [Discord](https://discord.gg/AdvgKwVCtf)
+**Anarchy** ➔ Serveur Minecraft Bedrock Edition dans un thème et un environnement post-apocaliptique [Discord](https://discord.gg/45dwFAGJpT)
 
-**PI-Heberg** ➔ Hébergement de tout types à petits prix [Discord](https://discord.gg/BJM4bpfkRm)
+**PI-Heberg** ➔ Hébergement de tout types à petits prix [Discord](https://discord.gg/ZTfx8SXK)
 
-**Horizon-Hébergement** ➔ Hébergement spécialiste du gaming [Discord](https://discord.gg/8bMASNgWS3)
+**Genius** ➔ Astuces et cours privés [Discord](https://discord.gg/97YCtxmDF4)
 
-**Ayzirix.bot** ➔ Bot Discord arrivant sous peu
+**Ayzirix.bot** ➔ Bot Discord arrivant sous peu [Discord]()
+
+**Ayzirix shop** ➔ Achats de mes services [Discord](https://discord.gg/8fTEvejeNX)
+
+**FaucetCrypto** ➔ Faucet de cryptomonnaie rémunérant 100x plus que les habituelles [Discord]()
 
 # 📈 • Statistiques Github
 
