@@ -33,8 +33,6 @@ Il n'y a pas de certifications disponible actuelement
 
 [![Twitter: @ayzirix](https://img.shields.io/badge/Twitter-ayzirix-9cf)](https://twitter.com/@ayzirix)
 
-[![Discord: @aweek0001](https://img.shields.io/badge/Discord-server-blue)](https://discord.gg/uEVRupPrr5) 
-
 [![Instagram: @ayzirix](https://img.shields.io/badge/Instagram-ayzirix-purple)](https://Instagram.com/ayzirix)
 
 # ⌨️ • LANGUAGES DE DEVELOPPEMENT
