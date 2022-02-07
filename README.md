@@ -2,7 +2,7 @@
 
 [![GitHub: @Ayzirix](https://img.shields.io/github/followers/Ayzirix?label=follow&style=social)](https://github.com/Ayzirix)
 [![GitHub: @Ayzirix](https://img.shields.io/github/stars/:user/:repo?style=social)](https://github.com/Ayzirix)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Ayzirix)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=Ayzirix)
 
 Afin de faciliter l'utilisation de cette page Github, toutes les informations sont disponible sur le readme général.
 Vous pouvez accéder aux différentes catégories du Github grâce aux liens hypertexte qui vous amèneront directement sur le readme de la catégorie sur lesquelle vous pourrez accéder aux différents projets opensource, et à leurs informations, via d'autres liens hypertexte
