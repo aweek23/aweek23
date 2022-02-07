@@ -1,7 +1,7 @@
 ![img](https://cdn.discordapp.com/attachments/928644758560194620/929118396107337799/1641589471450.png)
 
 [![GitHub: @Ayzirix](https://img.shields.io/github/followers/Ayzirix?label=follow&style=social)](https://github.com/Ayzirix)
-[![GitHub: @Ayzirix](https://img.shields.io/github/stars/:user/:repo?style=social)](https://github.com/Ayzirix/aweek.bot)
+[![GitHub: @Ayzirix](https://img.shields.io/github/stars/:user/:repo?style=social)](https://github.com/Ayzirix/aweek.bot/)
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=Ayzirix)
 
 Afin de faciliter l'utilisation de cette page Github, toutes les informations sont disponible sur le readme général.
