@@ -7,7 +7,7 @@ Hey, c'est moi Ayzirix, mieux connu sous le pseudonyme de Aweek. Je suis dévelo
 
 # Projets en cours et prévus
 Anarchy
-aweek.bot
-Genius
-FaucetCrypto
-HostYourWebsite
+<br />aweek.bot
+<br />Genius
+<br />FaucetCrypto
+<br />HostYourWebsite
