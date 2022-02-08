@@ -4,3 +4,10 @@
 - - - 
 Hey, c'est moi Ayzirix, mieux connu sous le pseudonyme de Aweek. Je suis développeur, infographiste, modelisateur 3D, community manager, builder Minecraft et hébergeur mais je suis également fort présent dans le monde des cryptomonnaies. J'ai 17ans et je suis Belge, je dis alors nonante et non quatre-vingt dix.
 # Compétences
+
+# Projets en cours et prévus
+Anarchy
+aweek.bot
+Genius
+FaucetCrypto
+HostYourWebsite
