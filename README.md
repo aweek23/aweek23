@@ -8,8 +8,8 @@ Hey, c'est moi Ayzirix, mieux connu sous le pseudonyme de Aweek. Je suis dévelo
 <br /><b>Infographisme</b> ➢ logos, bannières, miniatures, publicitées, etc
 <br /><b>Builds Minecraft</b> ➢ spawn, lobbys, hubs, warzones, décors, etc
 <br /><b>Modélisation 3D</b> ➢ modèles 3D et modèles 3D pour minecraft
-<br /><b>Community Management</b> ➢ réseaux sociaux et image de l'organisation
 <br /><b>Hébergement</b> ➢ installation de panels, réparation, automatisation, etc
+<br /><b>Community Management</b> ➢ réseaux sociaux et image de l'organisation
 
 # Projets en cours et prévus
 <b>Genius</b> ➢ Astuces et cours privés
