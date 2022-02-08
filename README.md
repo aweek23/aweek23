@@ -6,7 +6,7 @@ Hey, c'est moi Ayzirix, mieux connu sous le pseudonyme de Aweek. Je suis dévelo
 # Compétences
 
 # Projets en cours et prévus
-<b>aweek.bot</b> ➣
+<b>aweek.bot</b> ➢
 <br /><b>Genius</b> ➢
 <br /><b>FaucetCrypto</b> ➢
 <br /><b>HostYourWebsite</b> ➢
