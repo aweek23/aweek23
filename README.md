@@ -2,3 +2,4 @@
 
 [![GitHub: @Ayzirix](https://img.shields.io/github/followers/Ayzirix?label=follow&style=social)](https://github.com/Ayzirix)
 - - - 
+Hey, c'est moi Ayzirix, mieux connu sous le pseudonyme de Aweek. Je suis développeur, infographiste, modelisateur 3D, community manager et builder Minecraft.
