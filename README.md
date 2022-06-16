@@ -13,5 +13,6 @@ Hey, c'est moi Ayzirix, mieux connu sous le pseudonyme de Aweek. Je suis dévelo
 
 # Projets en cours et prévus
 <b>Legion</b> ➢ Formations, cours privés et astuces PayPal
-<br /><b>Anarchy</b> ➢ Le bot gratuit le plus complet de tout Discord
- 
+<br /><b>SocialBoost</b> ➢ Ventes d´abonnés, likes, vues, etc sur différents réseaux
+<br /><b>ShopDeals</b> ➢ Achetez tout peu cher
+<br /><b>Survie Minecraft</b> ➢ Survie Minecraft moddée multijoueurs crossplateformes
