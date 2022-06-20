@@ -13,7 +13,7 @@ Hey, c'est moi Ayzirix, mieux connu sous le pseudonyme de Aweek. Je suis dévelo
 <br /><b>Community Management</b> ➢ réseaux sociaux et image de l'organisation
 
 # Projets en cours et prévus
-<b>Legion</b> ➢ Formations, cours privés et astuces PayPal
-<br /><b>SocialBoost</b> ➢ Ventes d´abonnés, likes, vues, etc sur différents réseaux
-<br /><b>ShopDeals</b> ➢ Achetez tout peu cher
-<br /><b>Survie Minecraft</b> ➢ Survie Minecraft moddée multijoueurs crossplateformes
+<b>Legion</b> ➢ Formations, cours privés et astuces PayPal ([Serveur Discord](https://discord.gg/A8sNE6vbG9))
+<br /><b>SocialBoost</b> ➢ Ventes d´abonnés, likes, vues, etc sur différents réseaux ([Serveur Discord](https://discord.gg/yUWktnVaXR))
+<br /><b>ShopDeals</b> ➢ Achetez tout peu cher ([Serveur Discord](https://discord.gg/h9xkQrj4vS))
+<br /><b>Survie Minecraft</b> ➢ Survie Minecraft moddée multijoueurs crossplateformes ([Serveur Discord](https://discord.gg/AbTDGgsHNe))
