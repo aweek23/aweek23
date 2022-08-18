@@ -4,8 +4,10 @@
 
 ## Qui suis-je ?
 
-## Ce que j'pprend actuellement
+## Apprentisage
 
-## Mes compétences
+## Compétences
 
-## Mes certifications
+## Certifications
+
+## Contacts
