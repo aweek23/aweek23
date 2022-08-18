@@ -1,4 +1,4 @@
-https://www.flaticon.com/fr/icone-gratuite/gmail_270021
+# ![alt text](http://url/to/banniere github.png)
 
 ## Qui suis-je ?
 
