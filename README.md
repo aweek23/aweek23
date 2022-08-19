@@ -6,6 +6,10 @@
 
 ## Apprentisage
 
+*
+*
+*
+
 ## Compétences
 
 ## Certifications
