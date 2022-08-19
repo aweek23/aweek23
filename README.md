@@ -22,3 +22,4 @@
 ## Contacts
 
 ## Me soutenir
+![https://paypal.me/aweeek23](https://cdn.discordapp.com/attachments/1005891521989578773/1010161062726877274/donate-paypal.svg)
