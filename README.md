@@ -6,11 +6,14 @@
 
 ## Apprentisage
 
-*
-*
-*
+* Marketing numérique
+* Programmation en Python et Javascript
+* Perfectionnement en frontend
 
 ## Compétences
+
+* Développeur frontend
+* 
 
 ## Certifications
 
